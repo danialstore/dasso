@@ -1,0 +1,30 @@
+-----
+
+Checker Group [𝖜𝖈𝖌]
+[ @cc_checker ]
+
+- @stfuharry
+- @reboot13
+
+-----
+
+Crax.tube: The two files can be found at https://crax.pro/resources/2-req-cc-checker-php-cvv-cnn-%E2%9C%85.1862 inside "stripe" folder
+- chk.php (renamed to checker.php)
+- function.php
+
+VinayakYT1:
+- index.php and all required index files
+
+xAgent3:
+- Telegram forwarder code (not included in this shared file)
+
+Zer Haris & Shivang:
+- All their files for references (nothing included in this shared file)
+
+Zer Haris
+- Dark mode
+
+Im Kira
+- Nice UI modification
+
+Thanks!
